@@ -3,6 +3,7 @@ Final Project for Matlab programming MOOC on Coursera (Vanderbilt U)
 
 The task is to create a Matlab app with various controls that visualizes Covid Data present in the accompanying data file.
 OOP basics and programming skills are being tested. Certain requirements for the app are mentioned on the project submission web page of the MOOC.
+Open 'Covidapp_snip.png' image file for a look at the app GUI.
 Many of the features/requirements are as follows:
 - A Country list box. The first entry is 'Global' and it displays the total data of all countries. This data is not provided seperately in the data file, and has been calculated in the app.
 - A State/Province list box. It changes items with change in country selection.
