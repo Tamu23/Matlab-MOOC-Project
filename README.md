@@ -1,4 +1,4 @@
-# Matlab-CovidData-Project
+# Matlab-CovidData-GUI
 Final Project for Matlab programming MOOC on Coursera (Vanderbilt U)
 
 The task is to create a Matlab app with various controls that visualizes Covid Data present in the accompanying data file.
